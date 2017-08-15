@@ -1,3 +1,1 @@
-
-.ipynb_checkpoints/pandas-checkpoint.ipynb
-.ipynb_checkpoints/pandas-basic-checkpoint.ipynb
+.ipynb_checkpoints/*.ipynb
