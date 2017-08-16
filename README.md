@@ -10,13 +10,13 @@ This is not a comprehensive Python tutorial but instead is intended to highlight
 ### Tutorial Includes
  * Python Basic : Basic python syntax and concept
  * Python Advance : Object Oriented Programming
- * Numpy Basic :
- * Pandas Basic :
- * MatplotLib :
- * Scikit Learn :
+ * Numpy Basic : Simple Numpy Operation
+ * Pandas Basic : Simple Pandas Operation
+ * MatplotLib : Line, Point, Bar Graph, Pie Chart
+ * Scikit Learn : (Will be added later)
 
 ### Libraries required
 This tutorial is written in Python-3 (Numpy, Pandas, MatplotLib, Seaborn, Scikit-leanr). Anaconda already include all there libraries.
 
 ### Contribution
- 
+Happy to accept any pull requests if you want to add anything which can improve this tutorial.
