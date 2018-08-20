@@ -18,6 +18,14 @@ This is not a comprehensive Python tutorial but instead is intended to highlight
 ### Libraries required
 This tutorial is written in Python-3 (Numpy, Pandas, MatplotLib, Seaborn, Scikit-leanr). Anaconda already include all there libraries.
 
+* To install anaconda click on [this link](https://www.anaconda.com/download/).
+
+```sh
+  $ source activate base
+
+```
+
+
 ### Contribution
 Happy to accept any pull requests if you want to add anything which can improve this tutorial.
 
@@ -39,7 +47,7 @@ Happy to accept any pull requests if you want to add anything which can improve 
 
 
 
-## Declaration/Initialization 
+## Declaration/Initialization
 
 
 ```python
@@ -49,7 +57,7 @@ answer = 42
 answer = "The answer is 42."
 ```
 
-## Whitespace Formatting 
+## Whitespace Formatting
 
 Many languages use curly braces to delmit blocks of code. Python uses indentation(space and tab). This makes python code very readable, but it also means that you have to be very carefull with you formating:
 
@@ -60,7 +68,7 @@ Many languages use curly braces to delmit blocks of code. Python uses indentatio
 #     print(i+i)
 ```
 
-## Arithmetic 
+## Arithmetic
 Python 2.7 uses integer division by default, that is not what we want most of the time. Python 3.x uses normal division.
 
 
@@ -68,7 +76,7 @@ Python 2.7 uses integer division by default, that is not what we want most of th
 # normal division
 print(5/2)
 # integer division
-print(5//2) 
+print(5//2)
 ```
 
     2.5
@@ -81,12 +89,12 @@ Strings can be delimited by single or double quotation marks (but the quotes hav
 
 
 ```python
-single =   'string' 
+single =   'string'
 double =   "string"
 triple = """string"""
 ```
 
-## Loop 
+## Loop
 
 
 ```python
