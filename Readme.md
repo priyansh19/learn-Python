@@ -1,217 +1,164 @@
 # Python Tutorial
-This is not a comprehensive Python tutorial but instead is intended to highlight the parts of the language that will be most important for us. You can download python form the [python.org](https://docs.python.org/3/library/index.html). I recommend installing Anaconda distribution, which already includes most of the libraries that are need to do data science.
+This is not a comprehensive [Python]((https://docs.python.org/3/library/index.html) tutorial but instead is intended to highlight the parts of the language that will be most important for getting started.
 
 ### Keep in mind
  * Python is very slow when written badly.
  * Translate C code into Python is often bad idea.
  * Pythonic solution sometimes result in drastic performance improvement.
- * Utilize libraries' capabilities more than you skill.
-
-### Tutorial Includes
- * Python Basic : Basic python syntax and concept
- * Python Advance : Object Oriented Programming
- * Numpy Basic : Simple Numpy Operation
- * Pandas Basic : Simple Pandas Operation
- * MatplotLib : Line, Point, Bar Graph, Pie Chart
- * Scikit Learn : (Will be added later)
-
-### Libraries required
-This tutorial is written in Python-3 (Numpy, Pandas, MatplotLib, Seaborn, Scikit-leanr). Anaconda already include all there libraries.
-
-* To install anaconda click on [this link](https://www.anaconda.com/download/).
-
-```sh
-  $ source activate base
-
-```
-
-
-### Contribution
-Happy to accept any pull requests if you want to add anything which can improve this tutorial.
-
-
-# Python Core
-
-## Comment
-
-
-```python
-# This is a one-line Python comment - code blocks are so useful!
-"""This type of comment is used to document the purpose of functions and classes."""
-```
-
-
-
-
-    'This type of comment is used to document the purpose of functions and classes.'
-
-
-
-## Declaration/Initialization
-
-
-```python
-# Remember values, not variables, have data types.
-# A variable can be reassigned to contain a different data type.
-answer = 42
-answer = "The answer is 42."
-```
-
-## Whitespace Formatting
-
-Many languages use curly braces to delmit blocks of code. Python uses indentation(space and tab). This makes python code very readable, but it also means that you have to be very carefull with you formating:
-
-
-```python
-# Note that there is no bracket and semicolon ';'
-# for i in [1,2,3,4,5]:
-#     print(i+i)
-```
-
-## Arithmetic
-Python 2.7 uses integer division by default, that is not what we want most of the time. Python 3.x uses normal division.
-
-
-```python
-# normal division
-print(5/2)
-# integer division
-print(5//2)
-```
-
-    2.5
-    2
-
-
-## Strings
-
-Strings can be delimited by single or double quotation marks (but the quotes have to match). Python used backslashes to encode special characters. You can use triple quotes to create multiline strings.
-
-
-```python
-single =   'string'
-double =   "string"
-triple = """string"""
-```
-
-## Loop
-
-
-```python
-# loop using 'in' keyword
-for item in ('a','b','c','d'):
-    print(item)
-
-# traditional loop
-start, end, calculate = 0 , 10 , 0
-while (start < end):
-    calculate += calculate
-    start += 1
-```
-
-    a
-    b
-    c
-    d
-
-
-## Conditionals
-
-
-```python
-# conditional if - else ladder  
-if False:
-    print("Wrong Condition !")
-elif False:
-    print("Again Wrong Condition !")
-else:
-    print("Like Seriously !")
-```
-
-    Like Seriously !
-
-
-## Data Types
-
-
-```python
-boolean = True
-number = 1.1
-string = "Strings can be declared with single or double quotes."
-list = ["Lists can have", 1, 2, 3, 4, "or more types together!"]
-tuple = ("Tuples", "can have", "more than", 2, "elements!")
-dictionary = {'one': 1, 'two': 2, 'three': 3}
-variable_with_zero_data = None
-```
-
-## Function
-A function is a rule for taking zero or more imputs and returning a corresponding output. To define function in python we use def. There is one special type of function in python known as lanbda function. More about lambda function [here](http://www.secnetix.de/olli/Python/lambda_functions.hawk).
-
-
-```python
-# function declaration/defination
-def function_square(x):
-    return(x*x)
-
-# function calling
-function_square(3)
-```
-
-
-
-
-    9
-
-
-
-
-```python
-# lambda function declaration/defination
-function_lambda = lambda x: x**2
-
-# function calling
-function_lambda(3)
-```
-
-
-
-
-    9
-
-
-
-## Exceptions
-
-When something goes wrong,Python raises an exception. Unhandled, these will cause your program to crash. Exception can be handled using **try** and **except**.
-
-
-```python
-try:
-    print(0/0)
-except ZeroDivisionError:
-    print("Divide by Zero")
-```
-
-    Divide by Zero
-
-
-## Modules
-Certain features of python are note loaded by default. These include both features included as part of the language as well as third-party features that yoy can download yourself. In order to use these features, you'll need to **import** the modules that contain them.
-
-
-```python
-import re # import the whole module
-import re as regex # import the module as an alias
-import matplotlib.pyplot as plt # import only some part of the module
-from collections import defaultdict, Counter # import the specific feature or value from the module
-```
-
-
-```python
-# never never do this
-from re import * #  never do this
-```
-
+ * Utilize librarie's capabilities more than you skill.
+
+### How to get started?
+ This tutorial is written in Python version 3. I recommend installing Anaconda distribution, which already includes most of the libraries that are required for this tutorials.
+
+ **Installation:**
+  1. Download [Anaconda](https://www.anaconda.com/download/) installer.
+  2. Execute and complete the installer.
+  3. Open [Anaconda Command Prompt]( ) and execute the code.
+  ```sh
+    $ source activate base
+    $ jupyter notebook
+  ```
+
+**Get Code:**
+ 1. Create a [Github](https://github.com/join) account if you don't already have one.
+ 2. [Fork](https://help.github.com/articles/fork-a-repo/) the [learn-Python](https://github.com/llabhishekll/learn-Python) repository to your Github account.
+ 3. [Clone the forked repository](https://help.github.com/articles/cloning-a-repository/) on your local machine.
+
+
+ ## Legends
+
+ * :orange_book: — Jupyter Notebook
+ * :newspaper: — Article/Blog/Document
+ * :dvd: — Video Lecture
+
+### Course Content
+
+#### Module 1
+- [ ] :orange_book: [Python Fundamental](https://github.com/llabhishekll/learn-Python/blob/master/00-Python-basic-syntax.ipynb)
+- [ ] :newspaper: []()
+- [ ] :dvd: []()
+
+#### Module 2
+- [ ] :orange_book: [Built in Function]()
+- [ ] :newspaper: []()
+- [ ] :dvd: []()
+
+#### Module 3
+- [ ] :orange_book: [String Manipulation]()
+- [ ] :newspaper: []()
+- [ ] :dvd: []()
+
+#### Module 4
+- [ ] :orange_book: [Python Data Structure]()
+- [ ] :newspaper: []()
+- [ ] :dvd: []()
+
+#### Module 5
+- [ ] :orange_book: [Class and Object]()
+- [ ] :newspaper: []()
+- [ ] :dvd: []()
+
+#### Module 6
+- [ ] :orange_book: [Iterators/Generators/Decorators]()
+- [ ] :newspaper: []()
+- [ ] :dvd: []()
+
+#### Module 7
+- [ ] :orange_book: [Python Comprehension]()
+- [ ] :newspaper: []()
+- [ ] :dvd: []()
+
+#### Module 8
+- [ ] :orange_book: [System/OS Module]()
+- [ ] :newspaper: []()
+- [ ] :dvd: []()
+
+#### Module 9
+- [ ] :orange_book: [File Handling]()
+- [ ] :newspaper: []()
+- [ ] :dvd: []()
+
+#### Module 10
+- [ ] :orange_book: [HTTP Requests]()
+- [ ] :newspaper: []()
+- [ ] :dvd: []()
+
+#### Module 11
+- [ ] :orange_book: [Web Scraping]()
+- [ ] :newspaper: []()
+- [ ] :dvd: []()
+
+#### Module 12
+- [ ] :orange_book: [CSV Module]()
+- [ ] :newspaper: []()
+- [ ] :dvd: []()
+
+#### Module 13
+- [ ] :orange_book: [Numpy Operation]()
+- [ ] :newspaper: []()
+- [ ] :dvd: []()
+
+#### Module 14
+- [ ] :orange_book: [Pandas Fundamental]()
+- [ ] :newspaper: []()
+- [ ] :dvd: []()
+
+#### Module 15
+- [ ] :orange_book: [Pandas Data Structure]()
+- [ ] :newspaper: []()
+- [ ] :dvd: []()
+
+#### Module 16
+- [ ] :orange_book: [Pandas Visualisation]()
+- [ ] :newspaper: []()
+- [ ] :dvd: []()
+
+#### Module 17
+- [ ] :orange_book: [MatplotLib Visualisation]()
+- [ ] :newspaper: []()
+- [ ] :dvd: []()
+
+#### Module 18
+- [ ] :orange_book: [Scikit Learn - Machine Learning ]()
+- [ ] :newspaper: []()
+- [ ] :dvd: []()
+
+#### Module 19
+- [ ] :orange_book: [Thread Subprocess]()
+- [ ] :newspaper: []()
+- [ ] :dvd: []()
+
+#### Module 20
+- [ ] :orange_book: [Python Miscellaneous]()
+- [ ] :newspaper: []()
+- [ ] :dvd: []()
+
+#### Module 21
+- [ ] :orange_book: [Python GUI]()
+- [ ] :newspaper: []()
+- [ ] :dvd: []()
+
+#### Module 22
+- [ ] :orange_book: [Python SQL]()
+- [ ] :newspaper: []()
+- [ ] :dvd: []()
+
+#### Module 23
+- [ ] :orange_book: [Error Handling]()
+- [ ] :newspaper: []()
+- [ ] :dvd: []()
+
+#### Module 24
+- [ ] :orange_book: [Python Application]()
+- [ ] :newspaper: []()
+- [ ] :dvd: []()
+
+#### Module 25
+- [ ] :orange_book: [Python Code Profiling]()
+- [ ] :newspaper: []()
+- [ ] :dvd: []()
+
+---
 
 # Python Cheat Sheet
 
@@ -298,3 +245,8 @@ from re import * #  never do this
 - memoryview() :	Returns a memory view object
 - staticmethod() :	Returns a static method for a function
 - __import__() :	Invoked by the import statement
+
+---
+
+# Contribution
+Happy to accept any pull requests if you want to add anything which can improve this tutorial.
