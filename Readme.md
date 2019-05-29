@@ -1,5 +1,5 @@
 # Python Tutorial
-This is not a comprehensive [Python]((https://docs.python.org/3/library/index.html) tutorial but instead is intended to highlight the parts of the language that will be most important for getting started.
+This is not a comprehensive [Python](https://docs.python.org/3/library/index.html) tutorial but instead is intended to highlight the parts of the language that will be most important for getting started.
 
 ### Keep in mind
  * Python is very slow when written badly.
