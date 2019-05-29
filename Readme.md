@@ -25,140 +25,138 @@ This is not a comprehensive [Python]((https://docs.python.org/3/library/index.ht
  3. [Clone the forked repository](https://help.github.com/articles/cloning-a-repository/) on your local machine.
 
 
- ## Legends
+# Course Content
 
- * :orange_book: — Jupyter Notebook
- * :newspaper: — Article/Blog/Document
- * :dvd: — Video Lecture
-
-### Course Content
-
-#### Module 1
-- [ ] :orange_book: [Python Fundamental](https://github.com/llabhishekll/learn-Python/blob/master/00-Python-basic-syntax.ipynb)
+#### Module 1: Python Fundamental
+- [ ] :orange_book: [Python Fundamental](https://github.com/llabhishekll/learn-Python/blob/master/00-Python-Fundamental.ipynb)
 - [ ] :newspaper: []()
 - [ ] :dvd: []()
 
-#### Module 2
-- [ ] :orange_book: [Built in Function]()
+#### Module 2: Built in Function
+- [ ] :orange_book: [Built in Function](https://github.com/llabhishekll/learn-Python/blob/master/01-Python-Built-In-Function.ipynb)
 - [ ] :newspaper: []()
 - [ ] :dvd: []()
 
-#### Module 3
-- [ ] :orange_book: [String Manipulation]()
+#### Module 3: String Manipulation
+- [ ] :orange_book: [String Manipulation](https://github.com/llabhishekll/learn-Python/blob/master/02-Python-String-Manipulation.ipynb)
 - [ ] :newspaper: []()
 - [ ] :dvd: []()
 
-#### Module 4
-- [ ] :orange_book: [Python Data Structure]()
+#### Module 4: Python Data Structure
+- [ ] :orange_book: [Python Data Structure](https://github.com/llabhishekll/learn-Python/blob/master/03-Python-Data-Structure.ipynb)
 - [ ] :newspaper: []()
 - [ ] :dvd: []()
 
-#### Module 5
-- [ ] :orange_book: [Class and Object]()
+#### Module 5: Class and Object
+- [ ] :orange_book: [Class and Object](https://github.com/llabhishekll/learn-Python/blob/master/04-Python-Class-%26-Object.ipynb)
 - [ ] :newspaper: []()
 - [ ] :dvd: []()
 
-#### Module 6
-- [ ] :orange_book: [Iterators/Generators/Decorators]()
+#### Module 6: Iterators/Generators/Decorators
+- [ ] :orange_book: [Iterators/Generators/Decorators](https://github.com/llabhishekll/learn-Python/blob/master/05-Python-Iterators-Generators-Decorators.ipynb)
 - [ ] :newspaper: []()
 - [ ] :dvd: []()
 
-#### Module 7
-- [ ] :orange_book: [Python Comprehension]()
+#### Module 7: Python Comprehension
+- [ ] :orange_book: [Python Comprehension](https://github.com/llabhishekll/learn-Python/blob/master/06-Python-Comprehensions.ipynb)
 - [ ] :newspaper: []()
 - [ ] :dvd: []()
 
-#### Module 8
-- [ ] :orange_book: [System/OS Module]()
+#### Module 8: System/OS Module
+- [ ] :orange_book: [System/OS Module](https://github.com/llabhishekll/learn-Python/blob/master/07-Python-SYS-OS-Module.ipynb)
 - [ ] :newspaper: []()
 - [ ] :dvd: []()
 
-#### Module 9
-- [ ] :orange_book: [File Handling]()
+#### Module 9: File Handling
+- [ ] :orange_book: [File Handling](https://github.com/llabhishekll/learn-Python/blob/master/08-Python-File-Handling.ipynb)
 - [ ] :newspaper: []()
 - [ ] :dvd: []()
 
-#### Module 10
-- [ ] :orange_book: [HTTP Requests]()
+#### Module 10: HTTP Requests
+- [ ] :orange_book: [HTTP Requests](https://github.com/llabhishekll/learn-Python/blob/master/09-Python-HTTP-Request.ipynb)
 - [ ] :newspaper: []()
 - [ ] :dvd: []()
 
-#### Module 11
-- [ ] :orange_book: [Web Scraping]()
+#### Module 11: Web Scraping
+- [ ] :orange_book: [Web Scraping](https://github.com/llabhishekll/learn-Python/blob/master/10-Python-Web-Scraping.ipynb)
 - [ ] :newspaper: []()
 - [ ] :dvd: []()
 
-#### Module 12
-- [ ] :orange_book: [CSV Module]()
+#### Module 12: CSV Module
+- [ ] :orange_book: [CSV Module](https://github.com/llabhishekll/learn-Python/blob/master/11-Python-CSV-Module.ipynb)
 - [ ] :newspaper: []()
 - [ ] :dvd: []()
 
-#### Module 13
-- [ ] :orange_book: [Numpy Operation]()
+#### Module 13: Numpy Operation
+- [ ] :orange_book: [Numpy Operation](https://github.com/llabhishekll/learn-Python/blob/master/12-Numpy-Operations.ipynb)
 - [ ] :newspaper: []()
 - [ ] :dvd: []()
 
-#### Module 14
-- [ ] :orange_book: [Pandas Fundamental]()
+#### Module 14: Pandas Fundamental
+- [ ] :orange_book: [Pandas Fundamental](https://github.com/llabhishekll/learn-Python/blob/master/13-Pandas-Fundamental.ipynb)
 - [ ] :newspaper: []()
 - [ ] :dvd: []()
 
-#### Module 15
-- [ ] :orange_book: [Pandas Data Structure]()
+#### Module 15: Pandas Data Structure
+- [ ] :orange_book: [Pandas Data Structure](https://github.com/llabhishekll/learn-Python/blob/master/14-Pandas-Data-Structure.ipynb)
 - [ ] :newspaper: []()
 - [ ] :dvd: []()
 
-#### Module 16
-- [ ] :orange_book: [Pandas Visualisation]()
+#### Module 16: Pandas Visualisation
+- [ ] :orange_book: [Pandas Visualisation](https://github.com/llabhishekll/learn-Python/blob/master/15-Pandas-Visualization.ipynb)
 - [ ] :newspaper: []()
 - [ ] :dvd: []()
 
-#### Module 17
-- [ ] :orange_book: [MatplotLib Visualisation]()
+#### Module 17: MatplotLib Visualisation
+- [ ] :orange_book: [MatplotLib Visualisation](https://github.com/llabhishekll/learn-Python/blob/master/16-Matplotlib-Visualization.ipynb)
 - [ ] :newspaper: []()
 - [ ] :dvd: []()
 
-#### Module 18
-- [ ] :orange_book: [Scikit Learn - Machine Learning ]()
+#### Module 18: Scikit Learn - Machine Learning
+- [ ] :orange_book: [Scikit Learn - Machine Learning](https://github.com/llabhishekll/learn-Python/blob/master/17-Sklearn-Machine-Learning.ipynb)
 - [ ] :newspaper: []()
 - [ ] :dvd: []()
 
-#### Module 19
-- [ ] :orange_book: [Thread Subprocess]()
+#### Module 19: Thread/Subprocess
+- [ ] :orange_book: [Thread/Subprocess](https://github.com/llabhishekll/learn-Python/blob/master/18-Python-Thread-Subprocess.ipynb)
 - [ ] :newspaper: []()
 - [ ] :dvd: []()
 
-#### Module 20
-- [ ] :orange_book: [Python Miscellaneous]()
+#### Module 20: Python Miscellaneous
+- [ ] :orange_book: [Python Miscellaneous](https://github.com/llabhishekll/learn-Python/blob/master/19-Python-Miscellaneous.ipynb)
 - [ ] :newspaper: []()
 - [ ] :dvd: []()
 
-#### Module 21
-- [ ] :orange_book: [Python GUI]()
+#### Module 21: Python GUI
+- [ ] :orange_book: [Python GUI](https://github.com/llabhishekll/learn-Python/blob/master/20-Python-GUI.ipynb)
 - [ ] :newspaper: []()
 - [ ] :dvd: []()
 
-#### Module 22
-- [ ] :orange_book: [Python SQL]()
+#### Module 22: Python SQL
+- [ ] :orange_book: [Python SQL](https://github.com/llabhishekll/learn-Python/blob/master/21-Python-SQL-Lite.ipynb)
 - [ ] :newspaper: []()
 - [ ] :dvd: []()
 
-#### Module 23
-- [ ] :orange_book: [Error Handling]()
+#### Module 23: Error Handling
+- [ ] :orange_book: [Error Handling](https://github.com/llabhishekll/learn-Python/blob/master/22-Python-Error-Handling.ipynb)
 - [ ] :newspaper: []()
 - [ ] :dvd: []()
 
-#### Module 24
-- [ ] :orange_book: [Python Application]()
+#### Module 24: Unit Testing
+- [ ] :orange_book: [Unit Testing](https://github.com/llabhishekll/learn-Python/blob/master/23-Python-Unit-Testing.ipynb)
 - [ ] :newspaper: []()
 - [ ] :dvd: []()
 
-#### Module 25
-- [ ] :orange_book: [Python Code Profiling]()
+#### Module 25: Python Application
+- [ ] :orange_book: [Python Application](https://github.com/llabhishekll/learn-Python/blob/master/24-Python-Application.ipynb)
 - [ ] :newspaper: []()
 - [ ] :dvd: []()
 
----
+#### Module 26: Python Code Profiling
+- [ ] :orange_book: [Python Code Profiling](https://github.com/llabhishekll/learn-Python/blob/master/25-Python-Code-Profiling.ipynb)
+- [ ] :newspaper: []()
+- [ ] :dvd: []()
+
 
 # Python Cheat Sheet
 
@@ -245,8 +243,6 @@ This is not a comprehensive [Python]((https://docs.python.org/3/library/index.ht
 - memoryview() :	Returns a memory view object
 - staticmethod() :	Returns a static method for a function
 - __import__() :	Invoked by the import statement
-
----
 
 # Contribution
 Happy to accept any pull requests if you want to add anything which can improve this tutorial.
