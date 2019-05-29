@@ -5,21 +5,21 @@ This is not a comprehensive [Python](https://docs.python.org/3/library/index.htm
  * Python is very slow when written badly.
  * Translate C code into Python is often bad idea.
  * Pythonic solution sometimes result in drastic performance improvement.
- * Utilize librarie's capabilities more than you skill.
+ * Utilise libraries capabilities more than you skill.
 
 ### How to get started?
- This tutorial is written in Python version 3. I recommend installing Anaconda distribution, which already includes most of the libraries that are required for this tutorials.
+ This tutorial is written in Python version 3.7.x and uses [Jupyter Notebook](https://jupyter.org/) for implementation. I recommend installing Anaconda distribution, which already includes most of the libraries that are required for this tutorials.
 
  **Installation:**
   1. Download [Anaconda](https://www.anaconda.com/download/) installer.
-  2. Execute and complete the installer.
+  2. Execute installer and complete the installation.
   3. Open [Anaconda Command Prompt]( ) and execute the code.
   ```sh
     $ source activate base
     $ jupyter notebook
   ```
 
-**Get Code:**
+**Get Notebook:**
  1. Create a [Github](https://github.com/join) account if you don't already have one.
  2. [Fork](https://help.github.com/articles/fork-a-repo/) the [learn-Python](https://github.com/llabhishekll/learn-Python) repository to your Github account.
  3. [Clone the forked repository](https://help.github.com/articles/cloning-a-repository/) on your local machine.
@@ -242,7 +242,7 @@ This is not a comprehensive [Python](https://docs.python.org/3/library/index.htm
 - help() :	Invokes the built-in help system
 - memoryview() :	Returns a memory view object
 - staticmethod() :	Returns a static method for a function
-- __import__() :	Invoked by the import statement
+- import() :	Invoked by the import statement
 
 # Contribution
 Happy to accept any pull requests if you want to add anything which can improve this tutorial.
