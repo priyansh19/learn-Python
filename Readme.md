@@ -29,53 +29,53 @@ This is not a comprehensive [Python](https://docs.python.org/3/library/index.htm
 
 #### Module 1: Python Fundamental
 - [ ] :orange_book: [Python Fundamental](https://github.com/llabhishekll/learn-Python/blob/master/00-Python-Fundamental.ipynb)
-- [ ] :newspaper: []()
-- [ ] :dvd: []()
+- [ ] :newspaper: [Tutorials Point - Tutorial](https://www.tutorialspoint.com/python/python_basic_syntax.htm)
+- [ ] :dvd: [Basic Syntax - YouTube](https://www.youtube.com/watch?v=AGnECmJFA9U)
 
 #### Module 2: Built in Function
 - [ ] :orange_book: [Built in Function](https://github.com/llabhishekll/learn-Python/blob/master/01-Python-Built-In-Function.ipynb)
-- [ ] :newspaper: []()
-- [ ] :dvd: []()
+- [ ] :newspaper: [Python.org - Documentation ](https://docs.python.org/3/library/functions.html)
+- [ ] :dvd: [Built in Function - YouTube](https://www.youtube.com/watch?v=7rjJrQy9gi4)
 
 #### Module 3: String Manipulation
 - [ ] :orange_book: [String Manipulation](https://github.com/llabhishekll/learn-Python/blob/master/02-Python-String-Manipulation.ipynb)
-- [ ] :newspaper: []()
-- [ ] :dvd: []()
+- [ ] :newspaper: [Programming Historian - Blog](https://programminghistorian.org/en/lessons/manipulating-strings-in-python)
+- [ ] :dvd: [Working with Textual Data - YouTube](https://www.youtube.com/watch?v=k9TUPpGqYTo)
 
 #### Module 4: Python Data Structure
 - [ ] :orange_book: [Python Data Structure](https://github.com/llabhishekll/learn-Python/blob/master/03-Python-Data-Structure.ipynb)
-- [ ] :newspaper: []()
-- [ ] :dvd: []()
+- [ ] :newspaper: [A Byte of Python - Blog](https://python.swaroopch.com/data_structures.html)
+- [ ] :dvd: [Lists, Tuples, Sets & Dictionaries - YouTube](https://www.youtube.com/watch?v=R-HLU9Fl5ug)
 
 #### Module 5: Class and Object
 - [ ] :orange_book: [Class and Object](https://github.com/llabhishekll/learn-Python/blob/master/04-Python-Class-%26-Object.ipynb)
-- [ ] :newspaper: []()
-- [ ] :dvd: []()
+- [ ] :newspaper: [A Byte of Python - Blog](https://python.swaroopch.com/oop.html)
+- [ ] :dvd: [OOP in Python - YouTube](https://www.youtube.com/watch?v=qiSCMNBIP2g)
 
 #### Module 6: Iterators/Generators/Decorators
 - [ ] :orange_book: [Iterators/Generators/Decorators](https://github.com/llabhishekll/learn-Python/blob/master/05-Python-Iterators-Generators-Decorators.ipynb)
-- [ ] :newspaper: []()
-- [ ] :dvd: []()
+- [ ] :newspaper: [Iterators, generators and decorators - Tutorial](https://pymbook.readthedocs.io/en/latest/igd.html)
+- [ ] :dvd: [Iterators and Iterables - Youtube](https://www.youtube.com/watch?v=jTYiNjvnHZY)
 
 #### Module 7: Python Comprehension
 - [ ] :orange_book: [Python Comprehension](https://github.com/llabhishekll/learn-Python/blob/master/06-Python-Comprehensions.ipynb)
-- [ ] :newspaper: []()
-- [ ] :dvd: []()
+- [ ] :newspaper: [Tutorial list comprehension - Tutorial](https://www.analyticsvidhya.com/blog/2016/01/python-tutorial-list-comprehension-examples/)
+- [ ] :dvd: [Comprehensions - YouTube](https://www.youtube.com/watch?v=3dt4OGnU5sM)
 
 #### Module 8: System/OS Module
 - [ ] :orange_book: [System/OS Module](https://github.com/llabhishekll/learn-Python/blob/master/07-Python-SYS-OS-Module.ipynb)
-- [ ] :newspaper: []()
-- [ ] :dvd: []()
+- [ ] :newspaper: [Python.org - Documentation](https://docs.python.org/3/library/os.html)
+- [ ] :dvd: [OS Module - YouTube](https://www.youtube.com/watch?v=tJxcKyFMTGo)
 
 #### Module 9: File Handling
 - [ ] :orange_book: [File Handling](https://github.com/llabhishekll/learn-Python/blob/master/08-Python-File-Handling.ipynb)
-- [ ] :newspaper: []()
-- [ ] :dvd: []()
+- [ ] :newspaper: [Tutorials Point - Tutorial](https://www.tutorialspoint.com/python/python_files_io.htm)
+- [ ] :dvd: [File handling in Python - YouTube](https://www.youtube.com/watch?v=aequTxAvQq4)
 
 #### Module 10: HTTP Requests
 - [ ] :orange_book: [HTTP Requests](https://github.com/llabhishekll/learn-Python/blob/master/09-Python-HTTP-Request.ipynb)
-- [ ] :newspaper: []()
-- [ ] :dvd: []()
+- [ ] :newspaper: [Real Python - Tutorial](https://realpython.com/python-requests/)
+- [ ] :dvd: [Python Requests Tutorial YouTube](https://www.youtube.com/watch?v=tb8gHvYlCFs)
 
 #### Module 11: Web Scraping
 - [ ] :orange_book: [Web Scraping](https://github.com/llabhishekll/learn-Python/blob/master/10-Python-Web-Scraping.ipynb)
